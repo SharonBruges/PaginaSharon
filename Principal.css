@@ -1,0 +1,17 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(73,73,99);
+    background: linear-gradient(90deg, rgba(73,73,99,1) 0%, rgba(108,92,92,1) 50%, rgba(77,77,110,1) 100%);
+
+}
+footer{
+    text-align: center;
+margin: 20px;
+    color: black;
+}
+
+.contenedor{
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
